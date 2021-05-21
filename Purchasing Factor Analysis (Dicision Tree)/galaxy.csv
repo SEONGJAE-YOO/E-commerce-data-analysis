@@ -1,0 +1,1486 @@
+BuyItNow,startprice,carrier,color,productline,noDescription,charCountDescription,upperCaseDescription,sold
+0,199.99,None,White,Galaxy_S9,contains description,0,0,1
+0,235,None,,Galaxy_Note9,contains description,0,0,0
+0,199.99,,,Unknown,no description,100,2,0
+1,175,AT&T,Space Gray,Galaxy_Note9,contains description,0,0,1
+1,100,None,Space Gray,Galaxy_S8,contains description,0,0,1
+1,0.99,,White,Galaxy_S7,contains description,0,0,1
+1,150,None,White,Galaxy_S9,contains description,0,0,1
+0,199.99,None,Midnight Black,Galaxy_S9,no description,92,0,1
+0,99.99,None,White,Galaxy_S7,contains description,0,0,0
+1,20,AT&T,Midnight Black,Galaxy_S7,no description,96,41,1
+0,75,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,199.99,None,White,Galaxy_S9,no description,98,3,1
+0,344.95,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,184.5,None,Midnight Black,Galaxy_Note8,no description,100,4,1
+0,209.98,None,White,Galaxy_Note9,no description,100,6,0
+0,375,None,White,Galaxy_Note10,contains description,0,0,1
+0,95,None,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,187.5,None,Midnight Black,Galaxy_Note8,no description,84,3,0
+0,329.99,,Space Gray,Unknown,contains description,0,0,0
+0,149,Sprint/T-Mobile,White,Galaxy_Note10,contains description,0,0,0
+0,238.8,None,Space Gray,Galaxy_Note9,no description,96,4,0
+0,84.99,AT&T,,Galaxy_S7,no description,16,15,1
+0,249.99,None,,Galaxy_S9,no description,101,2,0
+0,309.99,None,White,Galaxy_S9,no description,92,20,0
+0,319.95,None,Space Gray,Galaxy_Note10,no description,71,6,1
+0,185,None,,Galaxy_Note8,no description,96,2,1
+0,90,None,,Galaxy_S7,no description,98,2,1
+0,299.98,None,,Galaxy_Note10,no description,100,6,0
+1,49,None,Aura Black,Galaxy_Note10,contains description,0,0,1
+0,444.99,None,,Galaxy_Note10,contains description,0,0,0
+0,480,None,,Galaxy_Note10,no description,77,1,0
+0,225,AT&T,,Galaxy_Note8,no description,20,1,1
+0,79,None,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,159.99,None,Midnight Black,Galaxy_Note8,no description,101,3,0
+0,199.99,None,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,115,None,,Galaxy_S7,no description,14,1,0
+0,289.95,,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,499.95,None,White,Galaxy_Note10,no description,81,7,0
+0,550,None,Aura Black,Galaxy_Note10,contains description,0,0,0
+0,209.99,None,White,Galaxy_Note8,no description,100,2,0
+0,185,None,,Galaxy_Note8,no description,96,2,1
+1,100,Verizon,,Galaxy_S9,no description,11,0,1
+1,279.99,Verizon,,Galaxy_Note10,contains description,0,0,1
+0,614.99,None,,Galaxy_Note10,contains description,0,0,1
+0,259,AT&T,,Galaxy_Note8,no description,81,2,0
+0,240,None,White,Galaxy_S9,contains description,0,0,0
+0,69.99,None,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,398.99,None,,Galaxy_Note10,no description,8,2,0
+1,175,None,,Galaxy_Note9,contains description,0,0,1
+0,84.99,None,Space Gray,Galaxy_S8,contains description,0,0,0
+0,269.99,None,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,295,Verizon,,Galaxy_S9,no description,31,1,0
+0,210,Sprint/T-Mobile,White,Galaxy_S8,no description,70,3,0
+1,160,None,White,Galaxy_Note10,contains description,0,0,1
+0,304.89,None,,Galaxy_S9,no description,96,15,0
+0,195,None,,Galaxy_S8,contains description,0,0,0
+0,319,,Gold,Unknown,contains description,0,0,0
+0,389.99,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,79.99,AT&T,Midnight Black,Galaxy_S7,no description,93,4,1
+0,254.99,AT&T,,Galaxy_S9,contains description,0,0,0
+1,115,AT&T,Midnight Black,Galaxy_Note8,no description,101,2,1
+0,279.99,,,Galaxy_Note10,no description,86,3,0
+1,75,None,,Galaxy_S7,contains description,0,0,1
+1,135,None,,Galaxy_S8,contains description,0,0,1
+0,130,None,Midnight Black,Galaxy_S8,no description,93,6,1
+1,50,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,380,None,,Galaxy_Note10,contains description,0,0,1
+0,169.95,None,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,319.85,None,Aura Black,Galaxy_Note10,contains description,0,0,0
+0,329.99,AT&T,,Galaxy_Note10,contains description,0,0,0
+0,130,None,Midnight Black,Galaxy_S8,no description,93,6,1
+0,550,None,Gold,Galaxy_Note10,contains description,0,0,0
+1,305,None,White,Galaxy_Note10,contains description,0,0,1
+1,450,None,,Galaxy_Note10,contains description,0,0,1
+0,194.29,None,White,Galaxy_S8,no description,96,15,0
+0,193.15,,,Unknown,contains description,0,0,0
+1,62,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,489.99,None,,Galaxy_Note10,no description,86,5,0
+1,99,None,White,Galaxy_Note8,contains description,0,0,1
+1,45,None,,Galaxy_Note8,no description,25,1,1
+0,199.99,None,Midnight Black,Galaxy_Note8,contains description,0,0,0
+0,264.99,None,Space Gray,Galaxy_Note9,no description,99,4,1
+0,349,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+1,160,None,Black,Galaxy_Note9,no description,37,1,0
+0,295,,White,Galaxy_S9,no description,95,4,0
+0,199,None,White,Galaxy_S9,contains description,0,0,1
+0,279.95,None,,Galaxy_S7,contains description,0,0,0
+0,149.95,,Midnight Black,Galaxy_S7,contains description,0,0,0
+1,290,None,White,Galaxy_Note10,contains description,0,0,1
+0,339.99,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+0,99,AT&T,Midnight Black,Galaxy_S7,no description,98,3,0
+0,320,,White,Galaxy_S9,no description,98,2,0
+1,255,,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,114.99,None,,Galaxy_S8,no description,98,6,1
+1,250,None,White,Galaxy_Note10,no description,100,11,1
+0,250,None,,Galaxy_Note8,no description,21,1,0
+0,549.99,Verizon,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,215,AT&T,,Galaxy_S8,contains description,0,0,1
+1,325,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+1,199.99,Sprint/T-Mobile,White,Galaxy_Note10,no description,43,1,1
+0,249.99,Verizon,Midnight Black,Galaxy_S9,no description,98,4,0
+0,299.99,,White,Galaxy_S8,contains description,0,0,0
+1,159.99,None,White,Galaxy_S8,contains description,0,0,1
+1,9.99,None,White,Galaxy_Note8,contains description,0,0,1
+1,125,None,Midnight Black,Galaxy_S9,contains description,0,0,1
+0,344,None,,Galaxy_S9,no description,31,1,0
+1,100,None,,Galaxy_S7,contains description,0,0,0
+0,250,None,,Galaxy_Note8,no description,21,1,0
+1,100,,,Unknown,no description,33,4,1
+0,225,Verizon,Midnight Black,Galaxy_Note8,contains description,0,0,0
+1,49.49,None,,Galaxy_S7,contains description,0,0,1
+1,225,AT&T,Midnight Black,Galaxy_S9,contains description,0,0,0
+0,389.99,None,,Galaxy_Note10,no description,96,20,0
+1,255,None,Midnight Black,Galaxy_S9,contains description,0,0,1
+1,25,AT&T,,Galaxy_S7,no description,105,4,1
+0,274.99,AT&T,Space Gray,Galaxy_Note10,no description,102,12,0
+1,0.99,None,,Galaxy_S8,contains description,0,0,1
+1,185,None,,Galaxy_Note8,no description,61,3,1
+1,250,None,Midnight Black,Galaxy_Note8,contains description,0,0,1
+1,99,Sprint/T-Mobile,Space Gray,Galaxy_Note9,contains description,0,0,1
+0,215,AT&T,White,Galaxy_Note8,no description,93,4,0
+1,58,,Black,Unknown,contains description,0,0,1
+0,187.5,None,Midnight Black,Galaxy_Note8,no description,101,4,0
+0,189.99,None,White,Galaxy_Note8,no description,44,2,1
+0,229,None,Space Gray,Galaxy_Note9,contains description,0,0,0
+1,0.99,None,,Galaxy_Note8,no description,95,7,1
+0,639.99,,,Galaxy_Note10,contains description,0,0,0
+1,40,None,,Galaxy_S7,no description,75,0,1
+1,29.99,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,49.99,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,199,,,Galaxy_S8,contains description,0,0,1
+0,294.99,None,White,Galaxy_Note10,no description,95,5,0
+0,499,Sprint/T-Mobile,White,Galaxy_Note9,contains description,0,0,1
+1,50,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,299.99,AT&T,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,270,,White,Galaxy_S9,no description,95,4,0
+1,80,AT&T,Midnight Black,Galaxy_S7,no description,33,1,1
+1,0.01,None,,Galaxy_S9,contains description,0,0,1
+0,399.99,None,White,Galaxy_Note10,no description,40,30,0
+0,279.95,None,,Galaxy_S7,contains description,0,0,0
+1,50,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,329,None,Black,Galaxy_Note9,contains description,0,0,0
+0,187.5,None,Midnight Black,Galaxy_Note8,no description,100,4,0
+0,269,None,,Galaxy_Note9,contains description,0,0,0
+1,50,AT&T,,Galaxy_S8,contains description,0,0,1
+1,0.99,None,White,Galaxy_S8,no description,55,1,1
+1,65,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,89.99,None,Midnight Black,Galaxy_S8,contains description,0,0,1
+0,184.95,Verizon,Midnight Black,Galaxy_Note8,no description,99,12,1
+1,99,None,Space Gray,Galaxy_S8,no description,19,3,1
+1,225,Verizon,White,Galaxy_Note9,contains description,0,0,1
+1,200,AT&T,,Galaxy_Note10,contains description,0,0,1
+1,100,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,319,None,Aura Black,Galaxy_Note10,no description,78,1,1
+1,99.99,None,Space Gray,Galaxy_S8,contains description,0,0,1
+1,174.95,None,,Galaxy_S9,contains description,0,0,1
+0,299,,White,Galaxy_S9,no description,93,4,0
+1,50,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,62,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,250,,Midnight Black,Galaxy_Note8,contains description,0,0,0
+1,100,Verizon,,Galaxy_Note8,no description,99,0,1
+1,200,,,Galaxy_Note8,contains description,0,0,0
+1,99.99,None,White,Galaxy_S8,no description,58,2,1
+0,404.99,None,Aura Black,Galaxy_Note10,no description,13,0,0
+1,0.99,,,Galaxy_Note10,no description,87,8,1
+1,50,None,Black,Unknown,no description,54,2,0
+0,89.99,None,Space Gray,Galaxy_S8,contains description,0,0,0
+1,49.99,,Black,Unknown,no description,46,2,1
+1,100,Verizon,Midnight Black,Galaxy_S8,contains description,0,0,1
+1,79.99,None,,Galaxy_S9,no description,98,3,1
+0,309.99,,,Galaxy_S9,no description,93,4,0
+0,415,,,Galaxy_Note10,no description,80,5,1
+0,269,None,,Galaxy_Note9,contains description,0,0,0
+1,184.99,None,Space Gray,Galaxy_Note10,no description,50,2,1
+1,50,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,165,None,White,Galaxy_Note8,contains description,0,0,1
+1,25,,,Unknown,contains description,0,0,1
+0,299,,White,Galaxy_S9,no description,93,4,0
+1,99,None,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,374.95,None,White,Galaxy_Note10,contains description,0,0,0
+0,75,None,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,175,None,,Galaxy_Note8,contains description,0,0,1
+0,480,None,Gold,Galaxy_Note10,no description,100,2,0
+0,465.99,None,Aura Black,Galaxy_Note10,no description,89,6,0
+0,399.99,None,,Galaxy_S9,no description,31,1,0
+1,50,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,70,None,Black,Unknown,no description,20,1,1
+1,1,Verizon,Midnight Black,Galaxy_S7,no description,98,4,1
+1,150,AT&T,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,187.99,None,,Galaxy_Note9,contains description,0,0,0
+1,42,None,White,Galaxy_S7,contains description,0,0,1
+1,399.99,None,White,Galaxy_Note10,no description,98,8,1
+0,339,None,White,Galaxy_Note9,contains description,0,0,1
+0,319.95,AT&T,White,Galaxy_Note10,no description,73,3,0
+0,398.99,None,,Galaxy_Note10,no description,8,2,0
+1,55,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,99.99,Verizon,,Galaxy_Note8,no description,18,0,0
+1,175,Verizon,White,Galaxy_Note8,contains description,0,0,1
+1,140,None,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,155,,,Unknown,no description,100,4,0
+1,400,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+1,1,None,,Galaxy_Note8,contains description,0,0,1
+0,89.99,AT&T,Midnight Black,Galaxy_S8,no description,41,2,1
+0,114.94,AT&T,,Galaxy_S7,contains description,0,0,0
+1,200,None,,Galaxy_Note10,contains description,0,0,1
+1,229.97,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,0
+1,40,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,499.99,AT&T,Space Gray,Galaxy_S8,contains description,0,0,0
+0,334.99,,Gold,Unknown,contains description,0,0,0
+1,250,AT&T,White,Galaxy_Note10,no description,95,4,0
+1,59.95,None,White,Unknown,contains description,0,0,1
+1,50,None,,Galaxy_S8,contains description,0,0,1
+1,225,AT&T,White,Galaxy_S9,contains description,0,0,0
+0,320,AT&T,Gold,Galaxy_Note10,no description,98,5,0
+1,200,Verizon,White,Galaxy_Note8,contains description,0,0,1
+1,29.99,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,75,None,White,Galaxy_Note8,no description,19,2,1
+0,305,,Midnight Black,Galaxy_S9,contains description,0,0,1
+1,150,None,Space Gray,Galaxy_S8,contains description,0,0,1
+1,78,AT&T,,Galaxy_S7,no description,95,3,1
+0,300,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+0,399,None,Gold,Galaxy_Note10,no description,101,4,0
+1,0.01,Verizon,,Galaxy_S9,no description,11,1,1
+1,20,None,,Galaxy_S7,no description,49,1,0
+1,100,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+1,0.01,,,Galaxy_S7,contains description,0,0,1
+1,41,,,Unknown,contains description,0,0,1
+0,439.99,None,,Galaxy_Note10,contains description,0,0,0
+1,250,Verizon,Midnight Black,Galaxy_Note8,no description,101,2,1
+1,0.99,None,White,Galaxy_S8,contains description,0,0,1
+1,0.99,Verizon,Midnight Black,Galaxy_Note8,contains description,0,0,1
+1,5,,White,Unknown,contains description,0,0,1
+1,19.99,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,50,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,89.99,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,490,None,,Galaxy_Note10,contains description,0,0,1
+1,99,None,Space Gray,Galaxy_S8,contains description,0,0,1
+1,200,None,White,Galaxy_Note8,contains description,0,0,0
+1,39.99,None,Midnight Black,Galaxy_S7,no description,102,1,1
+1,58,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,225,None,,Galaxy_S9,no description,100,3,0
+1,200,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+1,0.99,Verizon,,Galaxy_S8,no description,30,1,1
+0,80,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,250,None,,Galaxy_Note10,contains description,0,0,1
+1,25,None,Midnight Black,Galaxy_Note8,contains description,0,0,1
+1,100,None,,Galaxy_S8,no description,99,2,1
+1,185,None,White,Galaxy_S9,no description,97,2,1
+0,305,,Midnight Black,Galaxy_S9,contains description,0,0,1
+1,500,Sprint/T-Mobile,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,350,None,,Galaxy_Note9,contains description,0,0,0
+0,187.99,None,,Galaxy_Note9,contains description,0,0,0
+0,109.98,AT&T,,Galaxy_S7,no description,100,6,0
+0,350,AT&T,White,Galaxy_Note10,contains description,0,0,0
+1,19.95,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,5,None,Midnight Black,Galaxy_Note8,contains description,0,0,1
+1,70,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,125,None,,Galaxy_S8,contains description,0,0,1
+1,0.99,None,Space Gray,Galaxy_Note10,no description,49,5,1
+0,80,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,100,AT&T,Space Gray,Galaxy_Note10,no description,94,2,1
+0,375,Verizon,,Galaxy_S9,no description,39,1,1
+1,20,None,White,Galaxy_S7,no description,68,3,1
+1,99.75,None,White,Galaxy_S9,contains description,0,0,1
+0,250,None,,Galaxy_S8,no description,101,2,0
+1,100,None,,Galaxy_Note9,contains description,0,0,1
+1,400,None,,Galaxy_Note10,contains description,0,0,1
+1,48,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,0.99,AT&T,Midnight Black,Galaxy_S7,no description,16,15,1
+1,40,,White,Unknown,contains description,0,0,1
+1,295,Verizon,Space Gray,Galaxy_Note10,no description,100,4,1
+0,130,None,White,Galaxy_S8,no description,26,19,1
+1,310,None,White,Galaxy_Note10,contains description,0,0,1
+1,80,None,,Galaxy_S7,no description,100,2,1
+0,250,None,White,Galaxy_S10,no description,49,0,1
+1,150,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,99.99,None,Black,Unknown,no description,15,1,1
+1,40,AT&T,,Galaxy_S7,no description,88,2,1
+0,75,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,50,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,292.5,None,,Galaxy_Note10,no description,8,2,1
+1,100,None,,Galaxy_S8,contains description,0,0,1
+1,134.61,None,White,Galaxy_Note8,contains description,0,0,1
+1,100,None,,Galaxy_S8,no description,34,2,1
+0,275,Verizon,,Galaxy_S8,contains description,0,0,0
+1,0.99,,Midnight Black,Galaxy_S7,no description,88,0,1
+1,75,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,189.99,AT&T,,Galaxy_S8,no description,100,2,0
+1,149.99,None,,Galaxy_Note10,no description,102,8,1
+1,75,AT&T,White,Galaxy_S7,contains description,0,0,1
+1,1,Verizon,Midnight Black,Galaxy_S8,no description,108,8,1
+0,99.99,,,Galaxy_S7,contains description,0,0,0
+0,199.99,None,,Galaxy_S8,contains description,0,0,1
+1,149.99,None,,Galaxy_S8,contains description,0,0,1
+0,339,Verizon,White,Galaxy_Note8,contains description,0,0,0
+1,99,None,Space Gray,Galaxy_Note9,contains description,0,0,1
+1,120,None,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,185.49,None,Space Gray,Galaxy_S8,no description,21,1,0
+0,350,None,White,Galaxy_S8,contains description,0,0,1
+1,150,AT&T,White,Galaxy_S9,contains description,0,0,1
+0,179.96,None,Space Gray,Galaxy_S8,contains description,0,0,0
+1,242,Verizon,,Galaxy_Note10,contains description,0,0,1
+0,389.99,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+0,95,None,,Galaxy_S7,contains description,0,0,0
+1,264.95,None,Midnight Black,Galaxy_S9,no description,97,14,0
+1,75,None,,Galaxy_S8,no description,33,1,1
+0,15,None,Black,Unknown,contains description,0,0,0
+0,165,,Black,Unknown,no description,49,1,0
+1,49.99,None,,Galaxy_S7,no description,46,1,1
+1,187,None,,Galaxy_Note10,no description,100,5,1
+1,100,,Black,Unknown,no description,18,1,1
+0,15,None,Black,Unknown,contains description,0,0,0
+1,150,None,White,Galaxy_S8,contains description,0,0,1
+1,71,None,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,200,AT&T,,Galaxy_Note8,no description,101,4,1
+1,0.99,,Space Gray,Galaxy_Note10,contains description,0,0,1
+1,299,None,,Galaxy_Note10,contains description,0,0,1
+1,30,,,Galaxy_S7,contains description,0,0,1
+1,0.99,None,,Galaxy_S9,contains description,0,0,1
+1,0.99,Sprint/T-Mobile,Aura Black,Galaxy_Note10,contains description,0,0,1
+1,179,,Midnight Black,Galaxy_S8,no description,80,66,0
+1,75,None,,Galaxy_S7,contains description,0,0,1
+1,70,None,,Galaxy_S8,no description,57,2,1
+1,150,None,,Galaxy_S8,contains description,0,0,1
+1,120,None,White,Galaxy_Note9,contains description,0,0,0
+0,280,,Midnight Black,Galaxy_S9,contains description,0,0,0
+1,33,None,,Galaxy_S7,contains description,0,0,1
+1,89.99,None,White,Galaxy_Note8,contains description,0,0,0
+1,115,None,Midnight Black,Galaxy_S9,no description,59,2,1
+1,9.5,None,,Galaxy_S7,no description,11,2,1
+1,0.99,,,Unknown,no description,101,76,1
+1,0.99,,,Unknown,contains description,0,0,1
+1,0.99,None,,Unknown,contains description,0,0,1
+1,350,Verizon,,Galaxy_S9,contains description,0,0,0
+0,249.99,Verizon,Midnight Black,Galaxy_S9,no description,94,5,0
+1,200,None,White,Galaxy_S9,no description,98,3,1
+0,310,,White,Galaxy_S9,no description,93,4,0
+1,245,Verizon,,Galaxy_Note10,contains description,0,0,1
+0,458,Sprint/T-Mobile,White,Galaxy_Note9,contains description,0,0,0
+0,265,,White,Galaxy_S9,no description,100,4,0
+1,89,,White,Galaxy_S7,contains description,0,0,1
+1,0.99,Verizon,,Galaxy_Note8,contains description,0,0,1
+0,249.97,None,Midnight Black,Galaxy_Note8,contains description,0,0,0
+0,249.99,None,,Galaxy_S9,no description,101,4,0
+1,250,AT&T,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,500,None,Space Gray,Galaxy_Note10,no description,95,5,1
+1,100,None,White,Galaxy_S8,no description,32,0,1
+1,1,None,Gold,Galaxy_Note10,contains description,0,0,1
+1,299,None,White,Galaxy_Note10,contains description,0,0,1
+1,0.99,None,,Galaxy_S7,contains description,0,0,1
+1,9.99,None,White,Galaxy_Note8,contains description,0,0,1
+1,50,None,,Galaxy_S8,no description,98,0,1
+1,99.99,None,White,Galaxy_S9,contains description,0,0,1
+1,0.01,None,,Galaxy_S7,no description,62,2,1
+1,248.18,None,,Galaxy_Note9,contains description,0,0,1
+1,50,None,,Galaxy_S7,contains description,0,0,1
+1,200,None,,Galaxy_Note10,no description,38,1,1
+1,0.99,None,,Galaxy_S7,no description,31,1,1
+0,185,,,Unknown,contains description,0,0,0
+1,1.99,,Space Gray,Galaxy_Note10,no description,41,33,1
+1,125,None,White,Galaxy_S9,contains description,0,0,1
+1,190,None,,Galaxy_Note8,contains description,0,0,0
+1,150,None,White,Galaxy_S9,contains description,0,0,1
+0,229.99,Verizon,Space Gray,Galaxy_S7,contains description,0,0,1
+1,0.99,None,,Galaxy_S8,contains description,0,0,1
+0,400,None,,Galaxy_Note10,no description,20,1,0
+0,188.99,None,White,Galaxy_Note8,no description,100,4,0
+0,99.94,None,,Galaxy_S7,no description,97,12,0
+1,249.98,AT&T,Space Gray,Galaxy_Note10,no description,101,7,1
+1,299,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+0,225,,,Galaxy_Note8,no description,99,2,0
+1,19.99,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,110,None,Midnight Black,Galaxy_S7,no description,103,10,0
+1,200,None,White,Galaxy_Note8,contains description,0,0,0
+1,249,AT&T,Space Gray,Galaxy_S8,contains description,0,0,0
+1,60,None,,Galaxy_S8,contains description,0,0,1
+1,179.99,,White,Galaxy_Note8,contains description,0,0,1
+1,5,,White,Unknown,contains description,0,0,1
+1,0.99,None,,Galaxy_S7,contains description,0,0,1
+1,50,None,,Galaxy_S8,no description,33,1,1
+0,115,None,Space Gray,Galaxy_S8,contains description,0,0,1
+0,249,Verizon,Midnight Black,Galaxy_S8,no description,105,4,0
+1,50,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,252.99,AT&T,Midnight Black,Galaxy_Note8,no description,17,1,0
+1,1,None,,Galaxy_Note10,contains description,0,0,1
+1,40,None,,Galaxy_S8,contains description,0,0,0
+1,100,None,,Galaxy_S9,no description,95,3,0
+0,408,Verizon,,Galaxy_Note10,contains description,0,0,1
+1,5,None,,Galaxy_S8,no description,77,1,0
+1,125,None,,Galaxy_S8,contains description,0,0,1
+0,124.95,None,White,Galaxy_S7,contains description,0,0,0
+1,159.99,None,,Galaxy_S8,contains description,0,0,0
+1,0.99,Verizon,,Galaxy_Note8,contains description,0,0,1
+0,89.99,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,199.99,None,White,Galaxy_S9,contains description,0,0,1
+1,160,AT&T,White,Galaxy_S9,contains description,0,0,1
+0,200,Verizon,Space Gray,Galaxy_Note9,no description,94,5,0
+1,118,None,,Galaxy_S8,contains description,0,0,1
+0,199.99,None,White,Galaxy_S9,contains description,0,0,0
+1,250,AT&T,Black,Galaxy_Note9,contains description,0,0,1
+1,150,None,,Galaxy_S8,contains description,0,0,1
+0,79,None,,Galaxy_S7,no description,15,0,0
+0,399.99,None,Space Gray,Galaxy_Note9,contains description,0,0,0
+1,59.99,None,Midnight Black,Galaxy_S8,contains description,0,0,1
+1,99,None,,Galaxy_S8,contains description,0,0,1
+1,149.99,None,,Galaxy_Note10,no description,97,2,1
+0,169.99,None,Space Gray,Galaxy_S8,no description,95,9,0
+0,425,AT&T,Gold,Galaxy_Note10,contains description,0,0,0
+1,200,None,Space Gray,Galaxy_Note9,contains description,0,0,1
+0,300,,,Unknown,contains description,0,0,1
+1,69,None,Midnight Black,Galaxy_S7,no description,47,1,0
+1,300,None,White,Galaxy_S9,contains description,0,0,0
+1,149,None,White,Galaxy_S8,no description,87,8,0
+1,150,None,,Galaxy_S8,no description,97,9,0
+1,110,Verizon,,Galaxy_S8,contains description,0,0,1
+1,224.98,None,White,Galaxy_S9,no description,97,8,0
+1,99.99,None,,Galaxy_Note10,contains description,0,0,1
+0,89,AT&T,,Galaxy_S7,contains description,0,0,1
+1,380,None,White,Galaxy_Note10,contains description,0,0,1
+0,14,None,Black,Unknown,contains description,0,0,0
+1,120,None,Space Gray,Galaxy_Note9,contains description,0,0,1
+1,400,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+1,0.01,None,,Galaxy_Note8,no description,69,1,1
+1,0.01,None,,Galaxy_S8,no description,21,1,1
+0,475,None,Gold,Galaxy_Note10,no description,33,1,1
+1,99,None,Midnight Black,Galaxy_S8,contains description,0,0,1
+0,394.99,None,,Galaxy_Note10,no description,26,1,0
+0,175,None,,Galaxy_S8,contains description,0,0,0
+1,50,None,,Galaxy_S8,no description,94,1,1
+1,300,None,,Galaxy_Note10,contains description,0,0,1
+0,399.99,Verizon,Space Gray,Galaxy_S8,contains description,0,0,0
+1,9.95,None,,Galaxy_S7,contains description,0,0,1
+1,59,None,,Galaxy_S7,no description,82,1,1
+1,50,None,,Unknown,contains description,0,0,1
+0,234,None,White,Galaxy_Note8,no description,54,2,0
+1,72,None,Space Gray,Galaxy_S7,contains description,0,0,1
+0,170,None,Space Gray,Unknown,no description,24,0,1
+1,0.99,None,,Galaxy_S8,contains description,0,0,1
+0,325,AT&T,Midnight Black,Galaxy_S9,no description,73,3,0
+0,399.99,AT&T,Gold,Galaxy_Note10,no description,99,4,0
+1,95,None,,Galaxy_S7,contains description,0,0,0
+0,499,Verizon,Gold,Galaxy_Note10,no description,95,22,0
+1,45,None,Midnight Black,Galaxy_S8,contains description,0,0,1
+0,82.95,None,,Galaxy_S7,contains description,0,0,0
+1,0.99,AT&T,Midnight Black,Galaxy_S9,contains description,0,0,1
+1,199.99,AT&T,White,Galaxy_Note10,no description,69,2,1
+1,185,None,,Galaxy_Note10,no description,44,1,1
+1,201.99,None,,Galaxy_Note9,no description,92,2,1
+0,289.99,AT&T,,Galaxy_S9,no description,67,1,0
+0,219.99,AT&T,White,Galaxy_S8,contains description,0,0,0
+1,89.99,None,Aura Black,Galaxy_Note10,contains description,0,0,1
+1,279,Verizon,Aura Black,Galaxy_Note10,no description,99,1,1
+1,150,None,,Galaxy_S8,contains description,0,0,1
+1,0.99,None,White,Galaxy_Note8,no description,101,3,1
+1,49.99,AT&T,White,Galaxy_Note10,contains description,0,0,1
+1,75,None,,Galaxy_S7,no description,98,4,0
+1,149.99,,Black,Unknown,contains description,0,0,1
+0,275,None,White,Galaxy_Note8,no description,95,6,0
+1,249,None,White,Galaxy_Note10,no description,99,11,1
+1,0.99,,Black,Unknown,contains description,0,0,1
+0,198,Verizon,White,Galaxy_S7,no description,99,4,0
+0,300,AT&T,Space Gray,Galaxy_Note10,no description,99,5,0
+0,410,Sprint/T-Mobile,Space Gray,Galaxy_Note10,contains description,0,0,0
+1,100,None,Space Gray,Galaxy_Note10,no description,54,4,1
+0,60,None,White,Galaxy_Note10,contains description,0,0,0
+1,113,None,White,Galaxy_S8,contains description,0,0,0
+0,90,AT&T,White,Unknown,no description,99,1,0
+1,180,Verizon,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,699.95,None,Midnight Black,Galaxy_Note8,no description,83,3,0
+1,275,,,Unknown,contains description,0,0,0
+1,94.99,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,0
+1,0.99,Verizon,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,550,,,Galaxy_Note10,no description,101,5,0
+1,0.99,None,,Galaxy_S8,contains description,0,0,1
+1,210,,Black,Unknown,contains description,0,0,0
+1,179,Verizon,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,80,None,White,Unknown,no description,99,1,0
+0,150,,White,Unknown,contains description,0,0,1
+0,209,AT&T,,Galaxy_S9,contains description,0,0,1
+0,439.99,Sprint/T-Mobile,Aura Black,Galaxy_Note10,contains description,0,0,0
+0,349.99,Verizon,White,Galaxy_Note9,contains description,0,0,0
+1,200,None,,Galaxy_S9,contains description,0,0,1
+1,150,None,,Galaxy_S8,contains description,0,0,1
+1,100,None,Midnight Black,Galaxy_S8,no description,101,18,1
+1,395,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,208.99,None,Midnight Black,Galaxy_S8,no description,91,9,0
+1,0.01,None,Midnight Black,Galaxy_Note8,no description,9,0,1
+0,559.99,AT&T,White,Galaxy_Note10,contains description,0,0,1
+1,60,None,Space Gray,Galaxy_S7,no description,89,2,1
+0,229.98,None,White,Galaxy_Note8,no description,98,2,0
+0,120,,,Unknown,contains description,0,0,0
+1,50,None,Midnight Black,Galaxy_S9,no description,45,1,1
+1,145,None,White,Galaxy_Note9,no description,96,12,1
+1,299,,,Galaxy_Note9,no description,72,2,1
+0,560,None,,Galaxy_Note10,contains description,0,0,0
+0,159.95,None,,Galaxy_S7,contains description,0,0,0
+1,49.95,None,,Unknown,no description,76,2,1
+1,0.99,None,White,Galaxy_S8,contains description,0,0,1
+1,159,None,Space Gray,Galaxy_Note8,contains description,0,0,1
+1,50,None,,Galaxy_Note8,contains description,0,0,1
+0,560,None,White,Galaxy_Note10,contains description,0,0,0
+0,549.9,,Gold,Galaxy_Note10,contains description,0,0,0
+0,80,None,White,Galaxy_S7,contains description,0,0,0
+0,449.99,None,White,Galaxy_Note10,no description,101,5,0
+1,79.99,AT&T,Midnight Black,Galaxy_S7,no description,97,8,0
+0,785,Sprint/T-Mobile,Gold,Galaxy_Note10,contains description,0,0,0
+0,186,AT&T,White,Unknown,no description,99,1,0
+1,200,AT&T,White,Galaxy_Note9,no description,62,1,1
+1,200,,Space Gray,Galaxy_Note9,contains description,0,0,1
+1,220,Verizon,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,349.95,AT&T,,Galaxy_Note10,no description,52,3,0
+1,225,Sprint/T-Mobile,,Galaxy_Note10,contains description,0,0,1
+1,0.99,AT&T,White,Galaxy_Note9,no description,35,3,1
+1,100,AT&T,,Galaxy_S7,contains description,0,0,0
+1,55,Verizon,Midnight Black,Galaxy_S7,no description,99,5,1
+1,100,AT&T,,Galaxy_S8,no description,79,2,1
+0,250,None,,Galaxy_S8,no description,101,2,0
+0,89.99,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,0.99,None,White,Galaxy_S9,contains description,0,0,1
+1,50,None,,Galaxy_S7,contains description,0,0,1
+1,400,,,Galaxy_S9,contains description,0,0,0
+1,99.99,None,White,Galaxy_Note9,contains description,0,0,1
+0,222.72,None,,Galaxy_Note9,no description,94,18,0
+0,280,None,White,Galaxy_Note10,no description,98,2,1
+0,285,,,Unknown,no description,30,2,0
+1,79,None,,Galaxy_S7,no description,100,4,1
+1,99,AT&T,White,Galaxy_Note8,contains description,0,0,1
+0,387.45,None,Midnight Black,Galaxy_S8,no description,106,2,0
+1,239.99,None,Space Gray,Galaxy_Note9,contains description,0,0,0
+0,438,None,White,Galaxy_Note10,contains description,0,0,0
+1,139.99,None,Midnight Black,Galaxy_S9,contains description,0,0,1
+1,99.99,None,Space Gray,Galaxy_S8,contains description,0,0,1
+0,199,,Midnight Black,Galaxy_Note8,no description,96,3,1
+1,80,None,White,Galaxy_S7,no description,29,2,0
+1,0.99,,,Unknown,no description,94,2,1
+0,200,None,,Galaxy_S8,contains description,0,0,1
+0,185,,,Unknown,no description,48,7,0
+1,49.99,None,,Galaxy_Note10,no description,101,3,1
+0,259.99,Sprint/T-Mobile,Midnight Black,Galaxy_S8,no description,12,3,1
+1,149,None,Space Gray,Galaxy_S8,no description,91,74,1
+1,175,None,White,Galaxy_S8,no description,79,1,0
+1,150,,White,Galaxy_Note8,no description,99,4,1
+1,50,,,Galaxy_S7,no description,46,0,1
+1,1,Sprint/T-Mobile,Gold,Galaxy_Note10,contains description,0,0,1
+1,9.99,None,White,Galaxy_S7,no description,93,4,1
+0,319.99,Verizon,,Galaxy_S9,contains description,0,0,0
+1,80,None,White,Galaxy_S9,contains description,0,0,1
+1,218,AT&T,Midnight Black,Galaxy_S9,contains description,0,0,1
+1,0.99,None,White,Galaxy_S9,contains description,0,0,1
+1,210,None,Space Gray,Galaxy_S8,no description,47,2,0
+1,150,None,Midnight Black,Galaxy_S7,no description,99,2,0
+0,429,Verizon,Midnight Black,Galaxy_S8,no description,33,26,0
+1,0.99,AT&T,Midnight Black,Galaxy_S7,no description,93,2,1
+0,219.99,None,Space Gray,Galaxy_S8,contains description,0,0,0
+0,199.99,None,White,Galaxy_S8,contains description,0,0,0
+1,0.99,AT&T,Midnight Black,Galaxy_S7,no description,70,2,1
+1,9.99,None,White,Galaxy_S7,no description,93,4,1
+1,89.99,Sprint/T-Mobile,Gold,Galaxy_Note8,no description,4,1,1
+1,80,AT&T,Midnight Black,Galaxy_S9,contains description,0,0,1
+0,159.95,,,Galaxy_S8,no description,56,7,0
+0,319,Sprint/T-Mobile,Space Gray,Galaxy_Note10,contains description,0,0,0
+1,10,,,Galaxy_Note8,contains description,0,0,1
+1,99.99,None,White,Galaxy_Note8,no description,41,2,1
+1,244.96,None,White,Galaxy_S9,no description,95,4,0
+1,56,None,,Galaxy_S7,no description,98,5,1
+1,129.99,None,Space Gray,Galaxy_S8,contains description,0,0,1
+1,0.99,None,Midnight Black,Galaxy_S7,no description,99,4,1
+1,150,None,White,Galaxy_Note10,contains description,0,0,1
+1,0.99,None,Midnight Black,Galaxy_Note8,no description,95,6,1
+1,300,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+1,459,None,,Galaxy_Note10,contains description,0,0,0
+0,99.99,None,,Galaxy_S7,contains description,0,0,1
+0,209.99,None,,Galaxy_Note8,no description,98,1,0
+1,19.99,None,Midnight Black,Galaxy_S8,contains description,0,0,1
+0,80,None,Midnight Black,Galaxy_S7,contains description,0,0,0
+1,99.97,AT&T,Space Gray,Galaxy_Note9,no description,96,10,1
+0,220,None,,Galaxy_Note8,no description,49,1,0
+1,350,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+1,100,None,Midnight Black,Galaxy_Note8,no description,56,44,1
+1,199.97,,,Unknown,no description,88,2,0
+1,90,None,,Galaxy_S7,contains description,0,0,0
+0,320,,Aura Black,Galaxy_Note10,no description,29,1,0
+1,174,,Space Gray,Unknown,contains description,0,0,1
+0,400,Sprint/T-Mobile,,Galaxy_S9,contains description,0,0,0
+0,209,AT&T,,Galaxy_S9,contains description,0,0,0
+1,350,Sprint/T-Mobile,White,Galaxy_Note9,contains description,0,0,0
+1,95,Verizon,Midnight Black,Galaxy_Note8,contains description,0,0,1
+1,265,Sprint/T-Mobile,,Galaxy_Note10,no description,105,3,0
+1,199,AT&T,Space Gray,Galaxy_Note10,no description,97,7,1
+1,125,None,,Galaxy_Note8,contains description,0,0,1
+1,99.99,,,Unknown,no description,76,1,1
+1,150,None,Black,Unknown,contains description,0,0,0
+1,0.99,Verizon,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,180,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,400,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+0,249.99,None,Midnight Black,Galaxy_Note8,no description,24,2,0
+1,199,None,Midnight Black,Galaxy_Note8,contains description,0,0,0
+1,1,Verizon,,Galaxy_Note10,no description,65,2,1
+1,0.99,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,260,Verizon,,Galaxy_S8,contains description,0,0,0
+0,265,None,,Galaxy_S9,no description,15,1,0
+0,129.99,None,Midnight Black,Galaxy_S7,contains description,0,0,0
+1,50,None,White,Galaxy_Note10,contains description,0,0,1
+1,266.05,None,,Galaxy_Note10,contains description,0,0,0
+1,485,None,,Galaxy_Note10,contains description,0,0,1
+0,76,None,White,Unknown,no description,103,3,0
+1,10,Sprint/T-Mobile,Space Gray,Galaxy_Note10,no description,98,10,1
+1,50,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,129,None,White,Galaxy_Note8,contains description,0,0,1
+1,50,None,White,Galaxy_Note10,contains description,0,0,1
+1,249.95,None,,Galaxy_S8,contains description,0,0,0
+0,339,,Space Gray,Unknown,contains description,0,0,0
+0,200,None,,Galaxy_Note8,contains description,0,0,0
+0,160,None,,Galaxy_S8,contains description,0,0,0
+1,50,None,Midnight Black,Galaxy_S9,no description,39,1,1
+1,395,,White,Galaxy_Note8,contains description,0,0,0
+1,550,None,Gold,Galaxy_Note10,contains description,0,0,1
+1,800,,Gold,Galaxy_Note10,contains description,0,0,0
+1,525,None,White,Galaxy_Note10,no description,64,4,1
+1,175,Sprint/T-Mobile,White,Galaxy_Note9,no description,34,1,1
+1,199.99,,,Galaxy_Note10,contains description,0,0,1
+1,349.99,,Space Gray,Galaxy_Note10,contains description,0,0,1
+1,50,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,239.99,Verizon,White,Galaxy_S8,no description,100,3,1
+0,565.95,None,Space Gray,Galaxy_Note10,no description,14,3,0
+1,180,AT&T,,Galaxy_S7,contains description,0,0,0
+0,630,Verizon,White,Galaxy_Note10,contains description,0,0,1
+0,89,AT&T,White,Unknown,no description,99,1,0
+1,399,None,White,Galaxy_Note10,contains description,0,0,1
+0,232.99,,Space Gray,Unknown,contains description,0,0,0
+0,167.38,,,Unknown,contains description,0,0,0
+1,65,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,299,None,,Galaxy_Note8,no description,97,5,0
+1,0.99,None,Midnight Black,Galaxy_S7,no description,33,4,1
+1,160,None,White,Galaxy_S10,contains description,0,0,1
+1,346,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+1,0.01,None,Midnight Black,Galaxy_S8,contains description,0,0,1
+1,50,None,White,Galaxy_Note10,no description,13,0,1
+0,299,None,Prism Black,Galaxy_S10,contains description,0,0,0
+0,249.99,None,Space Gray,Galaxy_S8,contains description,0,0,0
+0,175,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,0.99,,Gold,Galaxy_Note10,no description,97,12,1
+1,0.99,,,Galaxy_S7,contains description,0,0,1
+1,239,None,Space Gray,Galaxy_Note9,no description,70,3,1
+0,250,None,Midnight Black,Galaxy_Note8,contains description,0,0,1
+1,150,Verizon,,Galaxy_S8,contains description,0,0,1
+1,75,Verizon,Midnight Black,Galaxy_S8,contains description,0,0,1
+1,319.99,None,White,Galaxy_Note10,no description,95,12,1
+0,188,AT&T,White,Unknown,no description,99,1,0
+1,300,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+0,199.99,None,White,Galaxy_S8,no description,97,3,0
+1,160.57,None,,Galaxy_S8,no description,89,3,1
+0,300,None,Black,Unknown,contains description,0,0,1
+1,109,None,,Galaxy_S8,contains description,0,0,1
+0,37.98,,,Unknown,contains description,0,0,1
+1,400,Sprint/T-Mobile,Space Gray,Galaxy_Note10,contains description,0,0,1
+1,0.99,None,,Galaxy_S9,contains description,0,0,1
+1,79.99,None,White,Galaxy_S7,no description,9,0,0
+0,119.99,None,Midnight Black,Galaxy_S7,no description,99,3,0
+1,100,Sprint/T-Mobile,,Galaxy_Note9,no description,98,3,1
+0,649.99,Verizon,Midnight Black,Galaxy_S9,contains description,0,0,0
+0,299,,White,Galaxy_S9,no description,93,4,0
+1,150,None,Midnight Black,Galaxy_S8,no description,106,2,1
+0,258.98,None,White,Galaxy_S8,contains description,0,0,0
+0,279.99,None,,Galaxy_S9,no description,100,54,0
+1,75,,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,0.99,,,Unknown,no description,100,2,1
+1,0.99,AT&T,,Galaxy_Note9,contains description,0,0,1
+0,249.99,AT&T,White,Galaxy_Note8,contains description,0,0,0
+0,200,None,,Galaxy_S7,contains description,0,0,0
+1,100,None,,Galaxy_S9,no description,56,0,1
+0,90,None,,Galaxy_S7,no description,15,2,1
+1,375,None,White,Galaxy_Note9,no description,59,1,1
+1,0.99,None,White,Galaxy_Note10,no description,99,6,1
+0,250,None,Midnight Black,Galaxy_S9,contains description,0,0,0
+1,185,None,White,Galaxy_Note9,contains description,0,0,1
+0,579.99,None,White,Galaxy_Note10,no description,101,3,0
+1,0.99,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,500,,White,Galaxy_Note10,contains description,0,0,0
+1,107,,Midnight Black,Galaxy_S9,no description,27,2,1
+1,300,None,,Unknown,no description,95,1,1
+0,159.99,None,Midnight Black,Galaxy_S8,no description,49,2,1
+1,45,None,,Galaxy_S7,contains description,0,0,1
+0,249.99,AT&T,White,Galaxy_S8,no description,99,4,1
+0,279.99,None,,Galaxy_S9,no description,97,24,0
+0,276.99,None,,Galaxy_S9,no description,91,73,0
+0,95,AT&T,,Galaxy_S7,no description,75,2,1
+1,10,None,Midnight Black,Galaxy_S7,no description,34,1,1
+0,379.99,None,Aura Black,Galaxy_Note10,no description,99,5,0
+0,275,AT&T,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,145,,Space Gray,Unknown,contains description,0,0,0
+1,275,None,Space Gray,Galaxy_Note8,contains description,0,0,1
+1,0.99,None,Midnight Black,Galaxy_S7,no description,33,4,1
+1,200,None,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,439,None,,Galaxy_Note10,no description,96,0,0
+0,379,AT&T,,Galaxy_Note10,contains description,0,0,0
+1,0.99,None,Midnight Black,Galaxy_S8,no description,100,0,1
+0,350,Sprint/T-Mobile,,Galaxy_Note9,no description,99,3,0
+0,180,None,White,Galaxy_Note9,contains description,0,0,1
+0,360,None,Aura Black,Galaxy_Note10,no description,96,8,0
+0,500,None,Midnight Black,Galaxy_S9,no description,78,1,0
+0,463.26,AT&T,White,Galaxy_Note8,no description,99,2,0
+1,0.99,,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,795.99,AT&T,Space Gray,Galaxy_Note10,contains description,0,0,0
+1,259.95,None,White,Galaxy_Note9,no description,98,80,0
+0,275,None,White,Galaxy_Note8,no description,101,1,1
+1,100,None,Black,Unknown,contains description,0,0,1
+1,300,None,,Galaxy_Note8,no description,14,0,0
+1,125,None,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,244.97,None,White,Galaxy_S8,contains description,0,0,0
+1,175,None,,Galaxy_S8,contains description,0,0,1
+0,199.99,None,,Galaxy_S8,contains description,0,0,0
+1,75,None,,Galaxy_S8,no description,44,2,1
+1,500,,White,Galaxy_Note10,contains description,0,0,0
+0,660,None,White,Galaxy_Note10,contains description,0,0,0
+0,525,None,White,Galaxy_Note10,no description,97,4,0
+1,0.99,None,,Galaxy_Note10,no description,101,7,1
+0,209.85,Verizon,Midnight Black,Galaxy_S8,no description,99,5,0
+0,299.99,None,,Galaxy_S9,no description,62,3,0
+1,250,None,White,Galaxy_Note10,contains description,0,0,1
+0,250,None,Midnight Black,Galaxy_S9,no description,94,0,1
+0,349.99,,Gold,Unknown,contains description,0,0,0
+1,200,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,10,,,Unknown,contains description,0,0,1
+0,350.25,None,,Galaxy_Note9,no description,105,14,0
+1,260,None,,Galaxy_Note10,contains description,0,0,1
+0,479.99,None,Midnight Black,Galaxy_S9,contains description,0,0,0
+1,239,None,White,Galaxy_S9,no description,60,6,0
+0,376,AT&T,Black,Galaxy_Note9,no description,88,6,0
+0,322.99,None,Space Gray,Galaxy_Note10,no description,101,6,0
+0,675,,White,Galaxy_Note10,contains description,0,0,1
+1,10,AT&T,Midnight Black,Galaxy_Note8,contains description,0,0,1
+1,229,None,Space Gray,Galaxy_Note10,no description,92,7,0
+0,350,Verizon,Midnight Black,Galaxy_Note8,no description,99,69,0
+1,149.98,AT&T,,Galaxy_S7,no description,88,2,0
+0,105,,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,120,None,,Galaxy_Note9,contains description,0,0,1
+1,25,None,,Galaxy_Note10,contains description,0,0,1
+0,318,,,Unknown,no description,98,4,0
+0,110,None,Midnight Black,Galaxy_S7,no description,100,5,0
+0,200.29,None,Midnight Black,Galaxy_Note8,no description,96,15,0
+0,339.99,Sprint/T-Mobile,,Galaxy_Note9,contains description,0,0,1
+0,829.99,,Gold,Galaxy_Note10,contains description,0,0,0
+0,529.99,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,300,None,,Galaxy_Note9,contains description,0,0,0
+1,70,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,279.99,,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,241.88,None,White,Galaxy_S8,contains description,0,0,1
+1,0.99,None,Midnight Black,Galaxy_S8,contains description,0,0,1
+0,115,None,,Galaxy_S7,contains description,0,0,0
+1,499,,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,499,,,Galaxy_Note9,contains description,0,0,1
+1,80,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,99,,Space Gray,Galaxy_Note10,no description,20,1,1
+1,0.99,None,Midnight Black,Galaxy_S9,no description,98,7,1
+1,399.99,None,,Galaxy_Note10,no description,71,1,0
+0,159.99,None,,Galaxy_S8,no description,49,1,0
+1,259.99,None,Midnight Black,Galaxy_S9,no description,47,1,0
+1,199.99,None,,Galaxy_S8,no description,19,3,0
+1,180,None,White,Galaxy_Note9,contains description,0,0,0
+1,200,None,Midnight Black,Galaxy_Note8,contains description,0,0,1
+1,350,Verizon,Space Gray,Galaxy_Note10,contains description,0,0,1
+0,279.99,Verizon,Midnight Black,Galaxy_S9,no description,105,3,0
+1,549.99,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,334.99,,,Galaxy_Note10,no description,63,4,0
+0,279.99,None,,Galaxy_S9,no description,95,77,0
+0,900,,,Galaxy_Note10,contains description,0,0,0
+0,510,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,389.99,Sprint/T-Mobile,,Galaxy_Note10,no description,88,1,0
+0,439.98,,,Unknown,no description,74,3,1
+0,462.89,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,239.99,None,Midnight Black,Galaxy_Note8,contains description,0,0,0
+0,300,None,White,Unknown,contains description,0,0,1
+1,299.99,,White,Unknown,contains description,0,0,1
+0,227,AT&T,White,Galaxy_S7,no description,98,2,0
+1,99,,,Unknown,no description,9,9,1
+1,0.99,AT&T,Midnight Black,Galaxy_S7,no description,16,15,1
+0,387,None,Space Gray,Galaxy_Note9,contains description,0,0,0
+1,550,None,Gold,Unknown,contains description,0,0,0
+0,249.99,None,Space Gray,Unknown,no description,3,0,0
+0,589.99,Sprint/T-Mobile,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,176.27,AT&T,,Galaxy_S8,contains description,0,0,1
+1,339,None,Midnight Black,Galaxy_S9,contains description,0,0,0
+0,80,None,,Galaxy_S7,no description,67,3,0
+0,165,None,,Galaxy_S7,no description,101,3,0
+1,130,None,,Galaxy_S7,no description,97,4,0
+0,388.3,AT&T,,Galaxy_S8,contains description,0,0,0
+0,429.99,AT&T,Space Gray,Galaxy_Note10,no description,67,7,0
+1,220,None,White,Galaxy_S8,no description,52,16,0
+1,245,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+0,249.99,AT&T,Midnight Black,Galaxy_S9,no description,97,81,0
+0,720.12,AT&T,,Galaxy_S8,contains description,0,0,0
+0,300,None,White,Galaxy_S9,no description,99,9,0
+0,500,Sprint/T-Mobile,,Galaxy_Note9,no description,54,2,0
+0,200,None,White,Galaxy_S8,contains description,0,0,0
+0,229.99,Verizon,White,Galaxy_Note8,no description,101,3,1
+1,149.95,None,Space Gray,Galaxy_S8,no description,26,3,1
+1,24.99,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+0,108,AT&T,White,Unknown,no description,98,2,0
+1,99.99,None,White,Galaxy_S9,contains description,0,0,1
+0,229.99,,,Unknown,no description,100,4,0
+0,699,,,Galaxy_Note10,no description,12,0,0
+0,475,None,,Galaxy_Note10,contains description,0,0,0
+0,90,None,,Galaxy_S7,contains description,0,0,0
+0,85.95,None,,Galaxy_S7,contains description,0,0,0
+1,0.99,None,Space Gray,Galaxy_S8,no description,27,3,1
+0,320.99,None,White,Galaxy_Note10,contains description,0,0,0
+0,339,None,,Galaxy_Note10,no description,68,2,0
+1,528,,,Galaxy_Note10,contains description,0,0,1
+1,0.99,None,Midnight Black,Galaxy_S7,no description,33,4,1
+0,539.95,None,,Galaxy_Note10,contains description,0,0,0
+0,92,AT&T,White,Galaxy_S7,no description,95,4,0
+0,349,None,,Galaxy_Note10,contains description,0,0,1
+0,84.99,None,,Galaxy_S7,contains description,0,0,0
+1,180,None,,Galaxy_S7,contains description,0,0,0
+1,450,,,Galaxy_Note10,contains description,0,0,1
+1,100,None,,Galaxy_Note9,contains description,0,0,1
+1,100,None,White,Unknown,contains description,0,0,1
+1,250,,Space Gray,Unknown,contains description,0,0,1
+1,300,Sprint/T-Mobile,Space Gray,Galaxy_S9,contains description,0,0,1
+0,517.89,AT&T,White,Galaxy_Note10,contains description,0,0,0
+0,500,None,,Galaxy_Note10,contains description,0,0,1
+0,397.75,Verizon,,Galaxy_S8,contains description,0,0,0
+0,200,None,White,Galaxy_S8,contains description,0,0,1
+0,239,Sprint/T-Mobile,,Galaxy_S8,no description,59,3,1
+0,259.99,None,,Galaxy_S9,no description,21,1,0
+1,250,None,,Galaxy_Note10,contains description,0,0,1
+1,429.99,None,Gold,Galaxy_Note10,contains description,0,0,0
+1,99.99,None,Gold,Galaxy_Note10,no description,4,1,1
+1,549.99,None,Gold,Galaxy_Note10,contains description,0,0,0
+0,398.99,None,White,Galaxy_S8,contains description,0,0,0
+0,429.99,AT&T,,Galaxy_S8,contains description,0,0,0
+1,199,AT&T,,Galaxy_S8,no description,98,5,0
+0,495.49,None,White,Galaxy_Note10,contains description,0,0,0
+0,249.59,,Midnight Black,Galaxy_S9,no description,96,2,0
+0,250,Verizon,White,Galaxy_Note8,no description,9,1,0
+0,99,AT&T,White,Galaxy_S7,no description,95,1,0
+0,108,AT&T,White,Unknown,no description,98,2,0
+1,225,None,White,Galaxy_Note9,no description,14,1,0
+0,350,None,,Galaxy_S9,contains description,0,0,0
+0,82.98,None,,Galaxy_S7,contains description,0,0,0
+0,101,AT&T,White,Galaxy_S7,no description,95,1,0
+0,415,Sprint/T-Mobile,,Galaxy_Note10,contains description,0,0,0
+0,469,None,White,Galaxy_Note9,contains description,0,0,0
+1,0.99,AT&T,,Galaxy_S8,no description,101,4,1
+0,249.99,None,White,Galaxy_S9,contains description,0,0,1
+0,227.88,None,,Galaxy_S8,contains description,0,0,0
+0,350,,Space Gray,Galaxy_S10,contains description,0,0,0
+0,199.97,None,,Galaxy_S8,no description,36,2,0
+0,280,None,White,Galaxy_Note9,no description,99,7,0
+1,199,AT&T,,Galaxy_S8,no description,98,5,0
+0,199.99,None,Space Gray,Galaxy_S8,no description,19,3,0
+0,449,None,Gold,Galaxy_Note10,contains description,0,0,0
+1,349.99,None,Aura Black,Galaxy_Note10,no description,47,1,0
+1,0.99,Sprint/T-Mobile,Black,Galaxy_Note9,no description,65,53,1
+1,300,Verizon,Midnight Black,Galaxy_Note8,no description,82,2,0
+0,310,AT&T,,Galaxy_Note9,contains description,0,0,0
+1,1,AT&T,,Galaxy_Note10,no description,93,3,1
+1,0.99,None,,Galaxy_Note8,no description,4,1,1
+0,215,Verizon,,Galaxy_S9,contains description,0,0,1
+1,0.99,,,Unknown,contains description,0,0,1
+0,257.83,None,Space Gray,Galaxy_Note10,no description,101,8,0
+0,303.67,None,Gold,Galaxy_S10,no description,100,25,0
+0,258.88,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+0,196,,White,Galaxy_Note8,no description,93,4,0
+0,174.99,None,Midnight Black,Galaxy_S7,no description,30,1,0
+0,550,,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,100,None,,Galaxy_S7,contains description,0,0,0
+0,424.95,None,White,Galaxy_Note10,contains description,0,0,0
+0,500,None,Midnight Black,Galaxy_S9,no description,64,1,0
+0,120.02,None,,Galaxy_S7,contains description,0,0,0
+1,0.99,None,,Galaxy_Note10,no description,29,1,1
+0,110,None,White,Galaxy_S7,no description,96,74,0
+1,25,None,Space Gray,Galaxy_Note9,contains description,0,0,1
+0,469.99,AT&T,,Galaxy_Note10,no description,100,3,0
+0,325,None,,Galaxy_S9,contains description,0,0,0
+1,0.99,,Space Gray,Galaxy_S8,no description,41,2,1
+0,449.99,Verizon,,Galaxy_Note10,no description,99,16,0
+0,198,None,,Galaxy_S8,no description,101,2,0
+0,319.95,None,White,Galaxy_Note8,no description,19,1,1
+0,419.99,AT&T,White,Galaxy_S9,contains description,0,0,0
+1,150,None,Space Gray,Unknown,no description,95,1,0
+1,400,,,Galaxy_Note10,contains description,0,0,1
+1,350,None,,Galaxy_Note10,no description,105,3,1
+0,495.99,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+1,500,,Space Gray,Galaxy_Note10,contains description,0,0,1
+0,339,None,White,Galaxy_Note10,contains description,0,0,1
+0,300,,,Galaxy_Note8,no description,92,4,0
+1,99,,,Galaxy_Note8,no description,100,4,1
+0,289.95,Sprint/T-Mobile,Black,Galaxy_Note9,no description,89,70,0
+0,549.95,,Space Gray,Galaxy_Note10,no description,67,1,0
+0,229,Verizon,White,Galaxy_Note8,no description,93,4,0
+1,259,,White,Unknown,no description,28,2,0
+0,649.95,Sprint/T-Mobile,White,Galaxy_Note10,contains description,0,0,0
+0,615.99,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+1,0.99,,,Unknown,no description,100,2,1
+0,270.99,AT&T,Space Gray,Galaxy_Note10,no description,97,10,0
+1,175,None,White,Galaxy_Note9,contains description,0,0,1
+0,430,None,,Galaxy_Note9,no description,96,3,0
+0,379.99,None,Aura Black,Galaxy_Note10,contains description,0,0,0
+0,299.95,,White,Galaxy_S8,no description,82,15,0
+0,600,AT&T,Midnight Black,Galaxy_Note8,no description,30,1,0
+0,275,None,,Galaxy_S9,contains description,0,0,0
+0,585.99,,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,550,,,Galaxy_Note10,contains description,0,0,0
+0,245,AT&T,White,Galaxy_S7,no description,22,19,0
+0,180,None,White,Galaxy_Note8,contains description,0,0,0
+0,329.99,None,,Galaxy_Note10,contains description,0,0,0
+0,250,,Midnight Black,Galaxy_S7,contains description,0,0,0
+1,299.99,None,Gold,Galaxy_Note10,contains description,0,0,0
+0,260,None,Black,Unknown,contains description,0,0,0
+0,340,AT&T,White,Galaxy_S9,no description,100,2,0
+0,388.99,Sprint/T-Mobile,Space Gray,Galaxy_Note10,no description,96,15,0
+0,90,None,,Galaxy_S7,no description,97,6,0
+0,349.99,None,Black,Galaxy_Note9,no description,101,6,0
+1,400,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+1,299.99,None,,Galaxy_Note10,no description,32,4,0
+0,375,None,White,Galaxy_Note9,contains description,0,0,1
+0,443.09,Sprint/T-Mobile,Space Gray,Galaxy_Note10,no description,99,15,0
+0,155,None,,Galaxy_S8,contains description,0,0,0
+0,275,None,Space Gray,Galaxy_Note9,contains description,0,0,0
+0,149.99,,,Unknown,no description,98,4,0
+0,149.59,None,,Galaxy_S8,contains description,0,0,1
+0,209.99,None,White,Galaxy_S8,no description,38,2,0
+1,290,None,White,Galaxy_S8,no description,15,0,0
+0,789,,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,224,AT&T,White,Unknown,no description,98,2,0
+0,239.88,None,,Galaxy_Note8,no description,101,2,0
+0,252.88,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,0.99,None,Space Gray,Galaxy_Note10,no description,77,2,1
+1,159.99,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+0,639,None,,Galaxy_Note10,contains description,0,0,0
+0,619.99,None,Space Gray,Galaxy_Note10,no description,85,10,0
+0,429.95,Sprint/T-Mobile,White,Galaxy_Note10,contains description,0,0,0
+0,535,None,White,Unknown,contains description,0,0,0
+0,289.99,None,White,Galaxy_S8,contains description,0,0,0
+0,454.68,None,White,Galaxy_Note10,contains description,0,0,0
+0,104.7,None,,Galaxy_S7,no description,55,1,1
+0,649.99,None,,Galaxy_Note8,contains description,0,0,0
+0,450,None,Gold,Galaxy_Note10,contains description,0,0,0
+0,155,None,,Galaxy_S8,contains description,0,0,0
+0,310,Verizon,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,250,AT&T,,Unknown,no description,18,0,0
+0,679.95,,,Galaxy_Note10,contains description,0,0,0
+1,0.99,,,Unknown,contains description,0,0,1
+0,379.99,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+0,105,AT&T,,Galaxy_S7,no description,100,13,0
+0,119,None,Midnight Black,Galaxy_S7,no description,103,10,0
+0,379.99,,White,Galaxy_Note9,no description,100,78,0
+0,15,None,Black,Unknown,contains description,0,0,0
+0,549,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,439.98,None,White,Galaxy_Note10,contains description,0,0,0
+0,124.95,None,,Galaxy_S7,no description,5,0,0
+0,263.99,None,White,Galaxy_S9,no description,104,14,0
+0,400,AT&T,,Galaxy_S8,no description,43,1,0
+0,454,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,450,None,,Galaxy_Note10,contains description,0,0,1
+1,0.99,None,Space Gray,Galaxy_S8,no description,75,11,1
+0,749,Sprint/T-Mobile,,Galaxy_Note10,contains description,0,0,0
+0,624.99,None,Gold,Galaxy_Note10,contains description,0,0,1
+0,349.99,Sprint/T-Mobile,,Galaxy_Note10,contains description,0,0,1
+0,430,AT&T,,Galaxy_Note10,no description,58,4,0
+0,449,None,White,Galaxy_Note10,no description,98,3,0
+1,279,None,Space Gray,Galaxy_Note10,no description,77,10,0
+0,367.97,AT&T,,Galaxy_S9,no description,22,1,0
+1,179,None,Midnight Black,Galaxy_S8,no description,87,8,0
+0,679.99,None,,Galaxy_Note10,contains description,0,0,0
+0,499.99,None,Gold,Galaxy_Note10,no description,37,3,1
+0,558.17,None,,Galaxy_Note10,no description,99,2,0
+0,425,AT&T,,Galaxy_S9,contains description,0,0,0
+0,248,Verizon,White,Galaxy_Note8,no description,98,2,0
+1,0.99,Verizon,,Galaxy_Note10,contains description,0,0,1
+1,199.99,Sprint/T-Mobile,Gold,Galaxy_Note10,no description,15,13,1
+0,80,None,Midnight Black,Galaxy_S7,contains description,0,0,0
+1,0.99,,Gold,Galaxy_Note10,contains description,0,0,1
+1,0.99,None,Midnight Black,Galaxy_S9,contains description,0,0,1
+1,250,Verizon,White,Galaxy_S8,contains description,0,0,0
+0,639,,,Galaxy_Note10,contains description,0,0,0
+1,99,,,Unknown,contains description,0,0,0
+0,119.99,None,Midnight Black,Galaxy_S7,no description,99,2,0
+1,100,,White,Unknown,contains description,0,0,0
+0,159.99,,,Unknown,no description,97,3,0
+1,0.99,None,Space Gray,Galaxy_S8,contains description,0,0,1
+0,259.99,,,Unknown,contains description,0,0,0
+0,184.99,None,Midnight Black,Galaxy_S8,no description,43,2,0
+1,0.99,None,Gold,Galaxy_Note10,contains description,0,0,1
+1,9.99,,,Galaxy_Note8,contains description,0,0,0
+0,389.99,None,White,Galaxy_Note10,contains description,0,0,0
+0,384.99,None,Aura Black,Galaxy_Note10,contains description,0,0,0
+0,599.99,AT&T,Aura Black,Galaxy_Note10,contains description,0,0,0
+1,0.99,AT&T,,Galaxy_S8,contains description,0,0,1
+1,150,,,Unknown,contains description,0,0,0
+0,490.95,None,,Galaxy_Note10,no description,101,4,0
+1,260,None,Gold,Galaxy_Note10,no description,26,0,1
+1,575,None,Gold,Galaxy_Note10,contains description,0,0,0
+0,200,None,White,Galaxy_S8,no description,100,5,0
+0,670,AT&T,,Galaxy_Note10,contains description,0,0,0
+0,380,None,Midnight Black,Galaxy_Note8,contains description,0,0,0
+0,350,,Space Gray,Unknown,contains description,0,0,0
+0,215.99,None,White,Galaxy_S8,no description,101,2,0
+0,439.99,None,Gold,Galaxy_Note10,contains description,0,0,0
+0,358.87,None,,Galaxy_S8,contains description,0,0,0
+0,939,,Gold,Galaxy_Note10,contains description,0,0,0
+0,279.99,None,White,Galaxy_Note9,no description,101,8,0
+0,575,None,Gold,Galaxy_Note10,contains description,0,0,0
+0,544.49,None,Midnight Black,Galaxy_S9,no description,90,5,0
+1,515,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,349.99,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,0.99,,,Unknown,no description,100,2,1
+1,300,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+0,95,None,White,Galaxy_S7,no description,96,7,0
+0,561.53,,White,Unknown,contains description,0,0,0
+0,300,None,,Unknown,no description,34,1,1
+1,320,None,,Galaxy_S8,contains description,0,0,0
+0,424.55,None,Gold,Galaxy_Note10,contains description,0,0,1
+0,540,Verizon,,Galaxy_S9,no description,36,22,0
+0,300,None,Space Gray,Galaxy_Note9,contains description,0,0,0
+0,299.99,None,White,Galaxy_Note9,contains description,0,0,0
+1,100,,Gold,Galaxy_Note10,contains description,0,0,1
+0,165,,,Unknown,no description,100,4,0
+0,425,None,Gold,Galaxy_Note10,contains description,0,0,1
+1,70,,,Galaxy_S7,no description,70,1,1
+0,280,,White,Galaxy_S9,no description,98,2,0
+0,499,None,,Galaxy_Note10,contains description,0,0,0
+1,650,,Gold,Galaxy_Note10,contains description,0,0,1
+0,314.99,None,Midnight Black,Galaxy_Note8,no description,100,2,0
+1,149.99,,,Unknown,no description,97,2,1
+0,220,None,,Galaxy_Note8,no description,49,1,0
+0,199.99,,,Galaxy_S7,no description,42,3,0
+0,798,None,Gold,Galaxy_Note10,contains description,0,0,0
+1,149.98,,White,Unknown,contains description,0,0,0
+0,520,None,White,Galaxy_S9,no description,69,11,0
+0,95,None,Midnight Black,Galaxy_S7,no description,19,1,0
+0,351,None,,Galaxy_S8,contains description,0,0,0
+1,229.95,,,Unknown,no description,100,80,0
+0,189.99,None,,Galaxy_S8,contains description,0,0,0
+0,259,None,Space Gray,Galaxy_S8,contains description,0,0,0
+0,399,AT&T,White,Unknown,contains description,0,0,0
+0,104.99,None,,Galaxy_S7,no description,93,2,0
+0,214.99,None,White,Galaxy_Note8,no description,99,2,0
+0,385,Verizon,White,Galaxy_Note9,no description,71,4,1
+1,600,,Space Gray,Galaxy_Note10,contains description,0,0,0
+1,1,None,White,Galaxy_Note10,no description,15,2,1
+1,79.95,None,Black,Galaxy_Note9,contains description,0,0,1
+1,350,,Space Gray,Galaxy_Note9,no description,57,2,0
+1,40,None,,Unknown,contains description,0,0,1
+0,375,Verizon,White,Galaxy_S8,no description,21,1,0
+1,445,None,White,Galaxy_S9,no description,102,5,0
+0,650,,,Galaxy_Note10,contains description,0,0,0
+1,45,,,Unknown,no description,15,1,1
+0,295,,Midnight Black,Galaxy_Note8,contains description,0,0,0
+0,560,None,,Galaxy_Note10,contains description,0,0,0
+1,220,,,Unknown,no description,99,81,0
+0,379,AT&T,White,Galaxy_Note10,no description,19,1,0
+0,187.89,None,Space Gray,Galaxy_S8,no description,17,2,0
+0,175,None,,Galaxy_S8,contains description,0,0,0
+0,280.99,AT&T,White,Galaxy_S9,no description,104,14,0
+1,0.99,,Aura Black,Galaxy_Note10,no description,40,1,1
+0,99,None,Midnight Black,Galaxy_S7,no description,29,4,0
+1,215,None,,Galaxy_S8,contains description,0,0,0
+0,200,None,White,Galaxy_S8,no description,99,2,0
+0,295,None,White,Galaxy_S8,contains description,0,0,0
+0,499,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+1,150,,,Unknown,contains description,0,0,1
+0,300,None,White,Galaxy_Note10,contains description,0,0,1
+0,589,None,Gold,Galaxy_Note10,no description,99,3,0
+0,575,,,Galaxy_Note9,contains description,0,0,0
+0,24.99,,,Unknown,no description,74,1,0
+0,320,,,Galaxy_S9,no description,17,1,0
+0,595,,,Unknown,contains description,0,0,1
+1,200,,,Galaxy_Note8,no description,98,6,0
+1,0.99,,,Unknown,no description,100,34,1
+0,285,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+0,350,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,125,,,Galaxy_S7,no description,101,1,1
+0,276.99,,,Unknown,no description,100,4,0
+1,0.99,None,White,Galaxy_Note9,contains description,0,0,1
+1,50,,Space Gray,Unknown,contains description,0,0,1
+0,459.95,None,Gold,Galaxy_Note10,contains description,0,0,0
+0,529.95,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,265,,,Unknown,no description,41,6,0
+0,459.99,None,,Galaxy_Note10,contains description,0,0,0
+0,360.24,Verizon,White,Galaxy_Note10,no description,108,15,0
+0,261.99,Sprint/T-Mobile,Midnight Black,Galaxy_S9,no description,103,10,0
+0,573.74,None,,Galaxy_S9,contains description,0,0,0
+1,315,None,Space Gray,Galaxy_Note9,contains description,0,0,0
+0,340,,,Unknown,no description,100,4,0
+0,440,None,Gold,Galaxy_Note10,contains description,0,0,0
+0,237.99,AT&T,Midnight Black,Galaxy_S9,no description,104,11,0
+0,439.99,None,Gold,Galaxy_Note10,contains description,0,0,1
+0,395,,Space Gray,Unknown,contains description,0,0,0
+0,598.98,None,Gold,Galaxy_Note10,contains description,0,0,0
+0,240,None,Midnight Black,Galaxy_S9,contains description,0,0,0
+1,150,,,Unknown,contains description,0,0,0
+0,300,None,White,Galaxy_Note8,no description,57,2,0
+0,300,,,Galaxy_S8,contains description,0,0,0
+0,168,None,,Unknown,no description,11,1,0
+1,20,,,Galaxy_S9,contains description,0,0,0
+0,639.99,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,350,Sprint/T-Mobile,White,Unknown,contains description,0,0,0
+0,400,Sprint/T-Mobile,,Galaxy_S9,no description,101,2,0
+0,279.5,,Midnight Black,Galaxy_S9,contains description,0,0,0
+0,999,None,,Galaxy_S8,contains description,0,0,0
+0,298,None,,Galaxy_S8,contains description,0,0,0
+0,499.99,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,125,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,275,,Midnight Black,Galaxy_S9,contains description,0,0,0
+0,473.6,,Black,Unknown,contains description,0,0,0
+0,520.9,,White,Unknown,contains description,0,0,0
+0,339.99,Sprint/T-Mobile,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,0.99,None,Black,Unknown,no description,65,1,1
+0,648,None,White,Galaxy_Note10,contains description,0,0,0
+0,648,None,White,Galaxy_Note10,contains description,0,0,0
+1,450,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+1,300,None,White,Galaxy_S8,contains description,0,0,0
+0,195,,,Unknown,no description,67,2,0
+0,695,AT&T,White,Galaxy_S9,contains description,0,0,0
+1,0.99,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+1,0.99,,,Galaxy_Note10,contains description,0,0,1
+0,99,,,Unknown,no description,99,1,0
+0,375,,,Unknown,contains description,0,0,0
+1,700,,,Unknown,contains description,0,0,0
+0,150,None,Space Gray,Galaxy_S8,contains description,0,0,1
+0,329,,,Galaxy_S9,contains description,0,0,1
+1,1,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+0,700,None,White,Unknown,contains description,0,0,0
+0,200,None,Space Gray,Galaxy_S8,contains description,0,0,0
+0,599,,,Unknown,contains description,0,0,0
+0,179.99,,,Unknown,contains description,0,0,1
+0,300,None,White,Galaxy_Note10,contains description,0,0,0
+0,290,Verizon,Space Gray,Galaxy_S8,no description,93,4,0
+1,50,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,325,,White,Galaxy_Note10,no description,45,37,0
+0,150,,,Unknown,contains description,0,0,0
+0,325,,,Unknown,contains description,0,0,0
+1,180,,,Unknown,contains description,0,0,0
+0,109.99,,White,Galaxy_S8,contains description,0,0,0
+0,110,None,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,51.99,,,Unknown,contains description,0,0,0
+1,14.49,,Black,Unknown,contains description,0,0,1
+0,44.99,,,Unknown,no description,47,1,1
+0,30.99,,,Unknown,no description,96,3,0
+0,3.99,,,Unknown,contains description,0,0,0
+0,8.99,,,Unknown,contains description,0,0,0
+0,127.95,,,Unknown,contains description,0,0,0
+0,220,,,Galaxy_S7,contains description,0,0,0
+0,4.69,,,Unknown,contains description,0,0,1
+0,9.99,,,Unknown,contains description,0,0,0
+0,139.99,,Black,Unknown,contains description,0,0,0
+0,139,,,Galaxy_S8,contains description,0,0,0
+1,350,None,White,Galaxy_S8,contains description,0,0,1
+0,39.99,,,Unknown,contains description,0,0,0
+0,9.95,,Space Gray,Unknown,contains description,0,0,0
+0,28,,,Unknown,contains description,0,0,0
+0,70.99,,,Unknown,no description,73,2,0
+0,255,,,Unknown,no description,44,5,0
+0,28.75,,,Unknown,contains description,0,0,0
+0,750,,,Galaxy_Note10,contains description,0,0,0
+1,0.99,None,,Galaxy_S7,contains description,0,0,1
+0,250,None,Black,Galaxy_Note9,contains description,0,0,0
+0,118.95,None,White,Unknown,contains description,0,0,0
+0,149.99,,White,Unknown,no description,99,1,0
+1,100,None,White,Galaxy_S8,no description,99,58,1
+1,75,None,Midnight Black,Galaxy_S8,contains description,0,0,1
+1,215,AT&T,Black,Galaxy_Note9,contains description,0,0,0
+0,395,,,Galaxy_Note9,contains description,0,0,1
+1,0.99,Sprint/T-Mobile,White,Galaxy_Note10,no description,70,3,1
+0,509,,Space Gray,Galaxy_Note9,contains description,0,0,0
+1,100,AT&T,Midnight Black,Galaxy_S9,contains description,0,0,1
+1,375,AT&T,White,Unknown,contains description,0,0,0
+0,289,None,White,Galaxy_Note9,contains description,0,0,0
+0,645,None,Gold,Galaxy_Note10,contains description,0,0,0
+1,265,None,White,Galaxy_S8,no description,96,1,0
+1,0.99,None,,Galaxy_Note9,contains description,0,0,1
+1,450,,Space Gray,Galaxy_Note9,contains description,0,0,0
+1,599.99,None,White,Unknown,contains description,0,0,0
+1,729.99,None,White,Galaxy_Note10,contains description,0,0,0
+0,749,,Gold,Galaxy_Note10,contains description,0,0,0
+0,225,,Space Gray,Unknown,no description,73,1,0
+1,350,AT&T,White,Galaxy_Note9,no description,97,3,0
+0,300,None,,Galaxy_Note8,contains description,0,0,0
+1,350,,White,Galaxy_S8,contains description,0,0,0
+0,320,None,White,Galaxy_Note10,contains description,0,0,1
+0,425.99,None,Black,Unknown,contains description,0,0,0
+0,260,None,White,Galaxy_Note9,contains description,0,0,1
+0,237,None,White,Galaxy_Note9,contains description,0,0,1
+0,150,None,Midnight Black,Galaxy_S8,contains description,0,0,1
+0,80,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,100,None,,Galaxy_S8,no description,19,0,1
+1,144.95,None,,Galaxy_Note10,contains description,0,0,0
+0,69.99,None,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,315,,,Galaxy_S9,contains description,0,0,1
+0,235,None,White,Galaxy_S10,contains description,0,0,0
+0,160,None,Midnight Black,Galaxy_S8,contains description,0,0,1
+0,235,None,Space Gray,Galaxy_S8,contains description,0,0,0
+0,295,None,,Galaxy_Note9,no description,38,0,1
+0,219,Verizon,Midnight Black,Galaxy_S8,no description,102,5,1
+0,280,None,White,Galaxy_Note9,contains description,0,0,1
+0,180,AT&T,Space Gray,Galaxy_S8,contains description,0,0,1
+0,500,AT&T,White,Galaxy_Note10,no description,36,2,0
+0,205,Verizon,,Galaxy_S8,contains description,0,0,1
+0,208,None,,Galaxy_S8,contains description,0,0,1
+0,419,None,,Galaxy_Note10,contains description,0,0,1
+0,165,None,Midnight Black,Galaxy_S7,no description,98,2,0
+0,347,None,White,Unknown,contains description,0,0,0
+0,175,AT&T,,Galaxy_S7,contains description,0,0,0
+0,400,Verizon,,Galaxy_S8,contains description,0,0,0
+0,730,,White,Galaxy_Note10,contains description,0,0,0
+0,150,Sprint/T-Mobile,,Galaxy_S8,contains description,0,0,1
+0,225,None,Space Gray,Galaxy_Note9,contains description,0,0,0
+0,325,None,,Galaxy_Note9,no description,11,0,0
+0,749.99,,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,225,None,,Galaxy_S8,contains description,0,0,0
+0,150,None,,Galaxy_S7,contains description,0,0,1
+0,105,None,,Galaxy_S7,no description,11,2,0
+0,175,None,,Galaxy_S8,contains description,0,0,0
+0,550,,,Galaxy_Note10,no description,97,1,0
+0,250,None,,Galaxy_S8,contains description,0,0,0
+0,145,None,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,210,None,,Galaxy_S8,no description,106,2,0
+0,90,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,1
+0,100,None,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,348.6,AT&T,Space Gray,Galaxy_S8,contains description,0,0,0
+0,308,None,Space Gray,Galaxy_Note9,contains description,0,0,0
+0,349,None,,Galaxy_Note10,no description,99,6,0
+0,70,,,Unknown,contains description,0,0,0
+0,710,,Gold,Galaxy_Note10,contains description,0,0,0
+0,230,None,,Galaxy_S8,contains description,0,0,0
+0,380,Sprint/T-Mobile,Space Gray,Galaxy_Note9,contains description,0,0,1
+0,280,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+0,149,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,350,Verizon,White,Galaxy_S8,contains description,0,0,1
+0,275,None,,Galaxy_S8,contains description,0,0,0
+0,300,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,327.58,None,Space Gray,Galaxy_Note9,contains description,0,0,0
+0,250,None,,Galaxy_S8,contains description,0,0,0
+0,400,None,,Galaxy_Note10,no description,99,16,0
+0,420,None,White,Galaxy_S10,contains description,0,0,1
+0,289,,,Galaxy_S8,no description,17,0,0
+0,375,None,White,Galaxy_Note9,contains description,0,0,0
+0,250,,Black,Unknown,no description,98,1,1
+0,525,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,269.95,None,Midnight Black,Galaxy_Note8,no description,99,3,0
+0,455,None,Space Gray,Galaxy_Note10,contains description,0,0,0
+0,200,None,White,Unknown,contains description,0,0,0
+0,149.99,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,400,None,,Galaxy_Note10,no description,87,3,0
+0,315,,,Galaxy_S9,contains description,0,0,0
+0,70,None,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,450,None,,Galaxy_Note8,contains description,0,0,0
+0,8,,,Galaxy_S9,no description,12,1,1
+0,195,AT&T,Midnight Black,Galaxy_S9,contains description,0,0,1
+0,4.99,,,Unknown,contains description,0,0,1
+0,259.99,None,White,Galaxy_S8,contains description,0,0,0
+0,100,,,Unknown,no description,85,1,0
+0,350,None,,Galaxy_Note10,no description,40,2,0
+0,380,,Black,Unknown,no description,41,3,0
+0,200,None,,Galaxy_Note8,no description,92,5,0
+0,150,None,,Unknown,contains description,0,0,1
+0,2.99,,,Unknown,contains description,0,0,0
+0,350,,White,Galaxy_Note9,contains description,0,0,0
+1,60,Verizon,,Galaxy_S8,contains description,0,0,0
+0,480,,,Unknown,no description,35,3,0
+0,175,None,Midnight Black,Galaxy_Note8,contains description,0,0,0
+0,69.69,None,,Galaxy_Note8,no description,6,0,1
+0,175,,,Unknown,contains description,0,0,0
+1,15,AT&T,,Galaxy_S7,no description,109,4,1
+0,119.88,Verizon,,Galaxy_S9,no description,29,26,0
+0,225,None,,Galaxy_Note9,contains description,0,0,0
+0,29.99,AT&T,,Galaxy_S8,contains description,0,0,1
+1,119.99,,,Unknown,contains description,0,0,0
+1,0.99,None,White,Galaxy_S9,no description,20,2,1
+0,150,None,,Galaxy_S9,contains description,0,0,0
+0,229,,,Galaxy_Note10,contains description,0,0,1
+0,199,None,White,Unknown,contains description,0,0,0
+0,149,None,,Galaxy_S8,contains description,0,0,1
+0,29.95,None,,Galaxy_S7,no description,70,10,1
+1,15,,Midnight Black,Galaxy_S7,no description,103,32,1
+0,229.98,None,Space Gray,Galaxy_Note10,no description,99,17,0
+1,19.5,Sprint/T-Mobile,Midnight Black,Galaxy_S8,contains description,0,0,1
+1,75,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+1,50,None,Space Gray,Galaxy_S8,contains description,0,0,1
+1,14.99,,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,100,,White,Galaxy_S9,contains description,0,0,1
+1,299.99,,,Unknown,no description,87,4,1
+1,0.99,,Midnight Black,Galaxy_S7,no description,99,1,1
+1,30,None,,Galaxy_S7,contains description,0,0,0
+1,0.99,None,Black,Unknown,contains description,0,0,1
+1,25,None,,Galaxy_Note8,no description,60,2,1
+1,0.99,None,,Galaxy_Note10,contains description,0,0,1
+1,114.99,None,,Galaxy_S8,contains description,0,0,0
+1,49.99,None,White,Galaxy_Note8,contains description,0,0,1
+1,10,None,,Galaxy_S8,no description,99,1,1
+0,59.99,,,Unknown,no description,89,15,0
+0,100,,Midnight Black,Galaxy_Note8,contains description,0,0,0
+1,30,None,White,Galaxy_S8,contains description,0,0,1
+0,209,,,Galaxy_Note10,contains description,0,0,0
+1,14.99,,Midnight Black,Galaxy_S7,contains description,0,0,1
+1,0.99,None,,Galaxy_Note8,no description,40,0,1
+1,25,None,White,Galaxy_S8,contains description,0,0,1
+1,0.99,,,Unknown,contains description,0,0,1
+1,39,None,White,Galaxy_S9,contains description,0,0,1
+1,119.99,None,,Galaxy_S8,contains description,0,0,0
+1,32.95,,,Unknown,no description,21,2,1
+0,550,Sprint/T-Mobile,,Galaxy_Note10,no description,19,5,0
+0,128,None,White,Galaxy_Note8,no description,101,2,0
+1,0.99,None,,Galaxy_Note10,contains description,0,0,1
+1,0.99,None,Space Gray,Galaxy_S8,no description,87,2,1
+0,209,,,Galaxy_Note10,contains description,0,0,0
+1,179.99,None,,Galaxy_Note10,no description,87,4,0
+1,0.99,None,,Galaxy_Note9,no description,96,6,1
+1,0.99,None,,Galaxy_S8,contains description,0,0,1
+1,0.99,Sprint/T-Mobile,White,Galaxy_Note10,no description,30,10,1
+1,65,AT&T,Midnight Black,Galaxy_S9,contains description,0,0,1
+1,0.99,None,Midnight Black,Galaxy_S8,contains description,0,0,1
+1,1,AT&T,,Galaxy_S7,contains description,0,0,1
+0,128,None,White,Galaxy_Note8,no description,101,2,0
+1,0.99,None,Midnight Black,Galaxy_S8,no description,101,0,1
+1,25,None,White,Galaxy_S8,no description,35,1,1
+1,30,None,,Galaxy_S8,contains description,0,0,1
+0,57.5,,,Unknown,contains description,0,0,1
+1,39.99,,,Unknown,contains description,0,0,1
+1,75,,,Unknown,contains description,0,0,1
+0,119.99,None,,Galaxy_S8,contains description,0,0,0
+1,50,None,,Galaxy_S8,contains description,0,0,1
+1,45,None,,Galaxy_S8,contains description,0,0,0
+0,54.99,AT&T,Midnight Black,Galaxy_S7,no description,55,1,1
+0,189.99,None,,Galaxy_Note10,contains description,0,0,0
+1,1,,,Galaxy_Note8,contains description,0,0,1
+1,70,None,,Galaxy_S8,contains description,0,0,1
+1,49.99,None,Midnight Black,Galaxy_S7,no description,111,10,1
+0,399.99,AT&T,,Galaxy_Note10,no description,61,4,0
+1,149.98,None,,Galaxy_S9,no description,36,16,0
+1,50,,Space Gray,Unknown,contains description,0,0,1
+0,100,None,,Galaxy_S8,contains description,0,0,0
+1,1,None,,Galaxy_Note10,no description,14,1,1
+1,0.99,None,Midnight Black,Galaxy_S8,no description,98,2,1
+1,0.99,None,,Galaxy_S9,no description,100,5,1
+1,0.99,None,,Galaxy_S8,no description,100,5,0
+0,150,,White,Galaxy_S9,contains description,0,0,0
+1,224.99,Verizon,,Galaxy_S9,no description,93,3,0
+1,75,,Space Gray,Unknown,contains description,0,0,1
+0,55,,,Galaxy_S7,contains description,0,0,0
+1,99.99,,,Galaxy_S9,contains description,0,0,0
+1,19.99,,Space Gray,Unknown,contains description,0,0,0
+1,62,,White,Galaxy_S8,contains description,0,0,1
+0,144.5,None,Midnight Black,Galaxy_S9,no description,99,4,1
+0,74.95,None,,Galaxy_S8,contains description,0,0,0
+1,99.95,None,White,Galaxy_S8,contains description,0,0,0
+0,590,,White,Unknown,contains description,0,0,1
+1,0.99,None,,Galaxy_S9,no description,98,3,1
+0,29.99,AT&T,Midnight Black,Galaxy_S7,no description,55,1,1
+1,0.99,,,Unknown,no description,100,5,1
+1,25,,,Unknown,contains description,0,0,1
+1,0.99,None,,Galaxy_S8,no description,89,69,1
+1,0.99,,,Unknown,contains description,0,0,1
+1,42,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,150,None,,Galaxy_Note8,no description,80,2,0
+1,20,,White,Unknown,no description,93,41,1
+1,0.99,None,White,Galaxy_Note8,contains description,0,0,1
+1,1,,,Galaxy_S8,contains description,0,0,1
+1,20,None,Space Gray,Galaxy_S8,no description,98,5,1
+1,100,,,Galaxy_S7,no description,52,2,0
+0,196.79,,,Unknown,contains description,0,0,0
+0,150.87,,,Unknown,contains description,0,0,1
+0,36.95,None,,Galaxy_S7,no description,70,10,1
+1,0.99,,,Unknown,no description,13,2,1
+1,0.99,None,,Galaxy_S8,no description,100,5,1
+0,209.9,None,,Galaxy_S7,no description,10,1,0
+1,0.99,None,Midnight Black,Galaxy_S8,no description,102,7,1
+0,52.99,AT&T,Midnight Black,Galaxy_S7,no description,55,1,1
+0,60,None,Midnight Black,Galaxy_S8,contains description,0,0,0
+1,0.99,,,Unknown,no description,70,4,1
+1,0.99,None,,Galaxy_Note10,no description,100,5,1
+0,69,,White,Unknown,contains description,0,0,1
+1,9.99,None,White,Galaxy_S8,no description,101,4,1
+0,59.99,,,Galaxy_S7,no description,96,3,0
+1,10,None,White,Galaxy_Note8,contains description,0,0,1
+0,99.95,Verizon,,Galaxy_Note8,no description,94,8,1
+1,0.01,None,Space Gray,Galaxy_Note9,contains description,0,0,1
+0,36.95,None,,Galaxy_S7,no description,70,10,1
+0,128,None,White,Galaxy_Note8,no description,101,2,0
+0,99.99,None,Midnight Black,Galaxy_S8,no description,100,7,1
+1,99.99,None,,Galaxy_S8,contains description,0,0,0
+0,100,,White,Galaxy_S8,contains description,0,0,0
+0,130,None,Space Gray,Galaxy_S8,contains description,0,0,0
+1,0.99,None,Midnight Black,Galaxy_S9,no description,41,2,1
+0,99.99,Verizon,,Galaxy_Note8,no description,87,3,0
+1,155.99,None,,Galaxy_S9,contains description,0,0,0
+1,65,,Black,Unknown,no description,47,2,0
+0,165,,,Galaxy_S8,no description,100,2,0
+0,199,None,,Galaxy_S8,no description,49,1,0
+0,55.66,Verizon,White,Galaxy_S7,no description,97,6,1
+0,79,,,Galaxy_S8,no description,97,5,0
+1,99.99,,,Galaxy_Note10,contains description,0,0,1
+1,0.99,,Midnight Black,Galaxy_Note8,contains description,0,0,1
+0,59,,,Galaxy_Note10,no description,65,26,1
+0,99.95,None,,Galaxy_Note10,contains description,0,0,0
+0,100,,,Unknown,no description,13,1,0
+1,100,None,White,Galaxy_Note10,no description,99,2,1
+0,100,,,Unknown,contains description,0,0,0
+0,91,,,Unknown,contains description,0,0,1
+1,500,,,Unknown,contains description,0,0,0
+1,45,None,,Galaxy_S8,contains description,0,0,1
+0,19.99,,,Unknown,no description,80,3,0
+0,155,None,White,Galaxy_Note9,no description,42,1,0
+1,25,None,White,Unknown,contains description,0,0,0
+0,415,None,White,Galaxy_Note10,contains description,0,0,0
+0,319.99,,Space Gray,Galaxy_Note10,no description,14,2,0
+1,99,None,White,Galaxy_S8,no description,98,3,1
+0,179.95,None,,Galaxy_Note8,contains description,0,0,0
+0,104.99,AT&T,,Galaxy_S7,no description,99,5,0
+1,275,,Midnight Black,Galaxy_S7,no description,86,12,1
+1,9.99,AT&T,,Galaxy_Note8,no description,92,10,1
+0,379.99,None,,Galaxy_S8,contains description,0,0,0
+0,264.99,None,White,Galaxy_S9,no description,101,78,0
+0,579.99,AT&T,,Galaxy_Note10,contains description,0,0,0
+1,0.99,None,,Galaxy_S8,contains description,0,0,1
+0,249.95,None,,Galaxy_S9,no description,53,3,1
+0,379.99,None,White,Galaxy_Note10,contains description,0,0,0
+0,149.95,None,,Galaxy_Note9,no description,97,4,1
+0,324.9,AT&T,Midnight Black,Galaxy_S9,no description,96,5,0
+1,349.99,None,White,Galaxy_Note10,contains description,0,0,1
+0,375,Verizon,White,Galaxy_Note10,no description,97,3,0
+0,319.98,None,White,Galaxy_Note9,contains description,0,0,0
+0,374.95,Verizon,Aura Black,Galaxy_Note10,contains description,0,0,0
+1,80,,,Unknown,contains description,0,0,0
+0,339,None,White,Galaxy_S10,contains description,0,0,1
+0,509,AT&T,,Galaxy_Note10,no description,27,1,0
+0,229,None,,Galaxy_Note10,no description,16,1,0
+0,299.99,Sprint/T-Mobile,,Galaxy_S8,contains description,0,0,0
+0,74.99,None,,Galaxy_S8,no description,72,2,0
+0,250,None,Space Gray,Galaxy_Note10,contains description,0,0,1
+0,124.99,,Midnight Black,Galaxy_S7,no description,100,76,0
+0,409.99,AT&T,White,Unknown,no description,99,5,1
+0,219.99,AT&T,,Galaxy_S9,contains description,0,0,1
+0,100,None,,Galaxy_S7,contains description,0,0,0
+0,199.99,AT&T,Midnight Black,Galaxy_Note8,no description,97,4,1
+1,0.99,None,,Galaxy_S9,contains description,0,0,1
+1,49.99,AT&T,Midnight Black,Galaxy_S7,no description,97,4,1
+0,199.99,None,Black,Unknown,no description,98,5,0
+0,36.95,None,,Galaxy_S7,no description,70,10,1
+0,298,AT&T,Midnight Black,Galaxy_Note8,no description,99,7,0
+0,319.99,,,Unknown,no description,99,1,1
+0,209,None,,Galaxy_S8,no description,101,4,0
+0,319.99,,,Unknown,no description,99,1,1
+0,419.99,,,Unknown,no description,96,2,1
+0,249,AT&T,White,Galaxy_S9,no description,26,2,0
+0,249,,,Unknown,no description,101,4,0
+0,179.99,AT&T,,Galaxy_S8,no description,99,1,1
+0,159.99,,,Unknown,no description,96,2,1
+0,279.99,AT&T,Space Gray,Galaxy_Note10,no description,48,9,0
+0,229,,,Unknown,no description,97,2,1
+0,129.95,AT&T,Midnight Black,Galaxy_S8,no description,100,80,0
+0,244.95,None,White,Galaxy_S9,contains description,0,0,0
+0,319,,,Unknown,no description,97,2,0
+0,289,,,Unknown,no description,101,4,0
+0,249.99,None,White,Galaxy_S8,no description,70,10,0
+1,49.95,None,White,Galaxy_S8,no description,34,1,1
+0,85,None,,Galaxy_S7,contains description,0,0,1
+1,0.99,None,White,Galaxy_S9,no description,99,76,1
+0,629,None,Gold,Galaxy_Note10,contains description,0,0,0
+0,429,None,White,Galaxy_Note10,contains description,0,0,0
+0,529,None,White,Galaxy_Note10,contains description,0,0,0
+0,430,,,Galaxy_Note10,contains description,0,0,0
+1,52.25,,,Unknown,contains description,0,0,0
+0,90,AT&T,Midnight Black,Galaxy_S7,contains description,0,0,0
+0,87,None,,Unknown,contains description,0,0,0
+1,50,None,Midnight Black,Galaxy_S7,no description,100,12,1
+0,249.99,Sprint/T-Mobile,Space Gray,Galaxy_Note10,contains description,0,0,1
+0,219.99,None,Midnight Black,Galaxy_Note8,no description,100,4,0
+0,329.99,None,,Galaxy_Note9,contains description,0,0,0
+0,36.95,None,,Galaxy_S7,no description,70,10,0
+0,250,None,Midnight Black,Galaxy_S9,no description,51,3,0
+0,129.99,None,Midnight Black,Galaxy_S7,no description,101,3,0
+1,119.99,None,Midnight Black,Galaxy_S8,contains description,0,0,1
+0,219.95,None,Midnight Black,Galaxy_Note8,no description,97,8,0
+0,279,,,Unknown,contains description,0,0,0
+0,319,,White,Unknown,contains description,0,0,0
+0,424.99,None,White,Galaxy_Note10,no description,99,5,1
+0,89.5,AT&T,,Galaxy_S7,no description,96,2,0
+0,239.95,None,Midnight Black,Galaxy_S9,no description,97,5,1
+0,329.99,None,Space Gray,Galaxy_Note10,no description,93,1,0
+0,89,None,Midnight Black,Galaxy_S7,no description,92,2,1
+0,119.99,AT&T,Midnight Black,Galaxy_S7,no description,96,5,0
