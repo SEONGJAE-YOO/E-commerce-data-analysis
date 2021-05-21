@@ -1,0 +1,2 @@
+Promotion efficiency prediction (random forest)
+프로모션 효율 예측 (Random Forest)
